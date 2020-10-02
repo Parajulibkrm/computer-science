@@ -1,5 +1,10 @@
 # Change Log
 
+##[9.0.0] 2020-10-02
+### Updated
+ - Course Duration 
+ - Course time
+
 All notable changes to this project will be documented in this file.
 This project adheres *in spirit* to [Semantic Versioning](http://semver.org/):
 - "MAJOR" updates correspond to changing the topics studied within a subject
