@@ -10,8 +10,8 @@ Courses | Duration | Effort
 :-- | :--: | :--:
 [Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-2#!)| 10 weeks | 15 hours/week
 [Introduction to Computer Science (Udacity)](https://www.udacity.com/course/intro-to-computer-science--cs101)| 7 weeks | 10-20 hours/week
-[An Introduction to Interactive Programming in Python (Part 1)](https://www.coursera.org/learn/interactive-python-1)| 5 weeks | -
-[An Introduction to Interactive Programming in Python (Part 2)](https://www.coursera.org/learn/interactive-python-2)| - | -
+[An Introduction to Interactive Programming in Python (Part 1)](https://www.coursera.org/learn/interactive-python-1)| 4 weeks | 4 hours/week
+[An Introduction to Interactive Programming in Python (Part 2)](https://www.coursera.org/learn/interactive-python-2)| 4 weeks | 3-5 hours/week
 [Computing In Python, Part I: Fundamentals and Procedural Programming](https://www.edx.org/course/computing-in-python-i-fundamentals-and-procedural-programming-0) | 5 weeks | 10 hours/week
 [Computing In Python, Part II: Control Structures](https://www.edx.org/course/computing-in-python-ii-control-structures-0) | 5 weeks | 10 hours/week
 [Computing In Python, Part III: Data Structures](https://www.edx.org/course/computing-in-python-iii-data-structures-0) | 5 weeks | 10 hours/week
@@ -54,11 +54,11 @@ Courses | Duration | Effort
 [Analysis of Algorithms (Skiena)](http://www3.cs.stonybrook.edu/~skiena/373/) | 15 weeks | 6-8 hours/week
 [Programming Challenges (Skiena)](http://www3.cs.stonybrook.edu/~skiena/392/) | 14 weeks | 6-8 hours/week
 [Data Structures and Algorithms (Specialization)](https://www.coursera.org/specializations/data-structures-algorithms) | 25 weeks | 3-10 hours/week
-[Algorithmic Thinking (Part 1)](https://www.coursera.org/learn/algorithmic-thinking-1/) | - | -
-[Algorithmic Thinking (Part 2)](https://www.coursera.org/learn/algorithmic-thinking-2/) | - | -
-[Statistical Mechanics: Algorithms and Computations](https://www.coursera.org/learn/statistical-mechanics/) | - | -
-[Approximation Algorithms Part I](https://www.coursera.org/learn/approximation-algorithms-part-1/) | - | -
-[Approximation Algorithms Part II](https://www.coursera.org/learn/approximation-algorithms-part-2/) | - | -
+[Algorithmic Thinking (Part 1)](https://www.coursera.org/learn/algorithmic-thinking-1/) | 4 weeks | 3-4 hours/week
+[Algorithmic Thinking (Part 2)](https://www.coursera.org/learn/algorithmic-thinking-2/) | 4 weeks | 2-4 hours/week
+[Statistical Mechanics: Algorithms and Computations](https://www.coursera.org/learn/statistical-mechanics/) | 4 weeks | 2 hours/week
+[Approximation Algorithms Part I](https://www.coursera.org/learn/approximation-algorithms-part-1/) | 4 weeks | 7 hours/week
+[Approximation Algorithms Part II](https://www.coursera.org/learn/approximation-algorithms-part-2/) | 4 weeks | 8-9 hours/week
 
 ## Applications
 
